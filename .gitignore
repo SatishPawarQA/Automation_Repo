@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.suo
+/.vs
+*.csproj.user
+.vs
+/ArcherConnectTest/.vs
+/ArcherConnectTest/**/*.suo
+/ArcherConnectTest/**/obj
+/ArcherConnectTest/**/bin
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+/ArcherConnectTest/ArcherConnectUITest/Properties/launchSettings.json
